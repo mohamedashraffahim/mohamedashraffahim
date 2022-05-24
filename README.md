@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, Flutter, Business**
 
-- 👯 I’m looking to collaborate on [CPP to Python Library](https://github.com/mohamedashraffahim/cpp-to-python)
+- 👯 I’m currently the leader of [CPP to Python Library developers](https://github.com/mohamedashraffahim/cpp-to-python)
 
 - ⚡ Fun fact **My Age is 19 Only 🙂...**
 
