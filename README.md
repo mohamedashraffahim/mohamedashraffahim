@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf Fahim</h1>
 <h3 align="center">Student at Faculty of Computers and Artificial Intelligence Cairo University | CEO of KeraLink Company | Founder of Toolatak Website.</h3>
 
-- 🔭 I’m currently working as [CEO of KeraLink Company](https://web.facebook.com/keralinknet)
+- 🔭 I’m currently working as [Founder of KeraLink Company](https://web.facebook.com/keralinknet)
 
 - 🌱 I’m currently learning **Web Development, Flutter, Business Administration**
 
