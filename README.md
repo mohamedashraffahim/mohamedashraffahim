@@ -3,7 +3,7 @@
 
 - 🔭 I’m Founder of [KeraLink Company](https://web.facebook.com/keralinknet)
 
-- 🌱 I’m currently learning **Web Development, Flutter, Business Administration**
+- 🌱 I’m currently learning **Web Development, Entrepreneurship, Business Administration**
 
 - 👯 I’m currently the leader of [CPP to Python Library Developers team](https://github.com/mohamedashraffahim/cpp-to-python)
 
