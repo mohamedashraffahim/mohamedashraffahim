@@ -4,7 +4,7 @@
 
 - 🔭 I’m Founder of [BeCoder Academy](https://web.facebook.com/becoder.academy), [Sawarny](https://web.facebook.com/sawarny.production)
 
-- 🌱 I’m currently learning **Web Development, Entrepreneurship, Business Administration**
+- 🌱 I’m currently learning **Programming, Entrepreneurship, Business Administration**
 
 - 👯 I’m currently the leader of [BeCoder, Sawarny Teams]
 
