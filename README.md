@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashraf Fahim</h1>
-<h3 align="center">Student at Faculty of Computers and Artificial Intelligence Cairo University | Founder of BoCoder Academy | Founder of Sawarny.</h3>
+<h3 align="center">Student at Faculty of Computers and Artificial Intelligence Cairo University 
+| Founder of BeCoder Academy | Founder of Sawarny.</h3>
 
 - 🔭 I’m Founder of [BoCoder Academy](https://web.facebook.com/becoder.academy), [Sawarny](https://web.facebook.com/sawarny.production)
 
