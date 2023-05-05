@@ -2,7 +2,7 @@
 <h3 align="center">Student at Faculty of Computers and Artificial Intelligence Cairo University 
 | Founder of BeCoder Academy | Founder of Sawarny.</h3>
 
-- 🔭 I’m Founder of [BoCoder Academy](https://web.facebook.com/becoder.academy), [Sawarny](https://web.facebook.com/sawarny.production)
+- 🔭 I’m Founder of [BeCoder Academy](https://web.facebook.com/becoder.academy), [Sawarny](https://web.facebook.com/sawarny.production)
 
 - 🌱 I’m currently learning **Web Development, Entrepreneurship, Business Administration**
 
