@@ -2,11 +2,11 @@
 <h3 align="center">Student at Faculty of Computers and Artificial Intelligence Cairo University 
 | Founder of BeCoder Academy | Co-Founder of Sawarny.</h3>
 
-- 🔭 I’m Founder of [BeCoder Academy](https://web.facebook.com/becoder.academy), [Sawarny](https://web.facebook.com/sawarny.production)
+- 🔭 I’m Founder of [BeCoder Academy](https://web.facebook.com/becoder.academy).
 
 - 🌱 I’m currently learning **Programming, Entrepreneurship, Business Administration**
 
-- 👯 I’m currently the leader of [BeCoder, Sawarny Teams]
+- 👯 I’m currently the leader of [BeCoder Team]
 
 
 <h3 align="left">Connect with me:</h3>
