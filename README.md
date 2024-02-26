@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Programming, Entrepreneurship, Business Administration**
 
-- 👯 I’m currently the leader of [BeCoder Team]
+- 👯 I’m currently the leader of [Go Academy Team]
 
 
 <h3 align="left">Connect with me:</h3>
