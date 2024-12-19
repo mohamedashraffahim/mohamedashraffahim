@@ -2,7 +2,7 @@
 <h3 align="center">Student at Faculty of Computers and Artificial Intelligence Cairo University 
 | Founder of Go Academy platform.</h3>
 
-- 🔭 I’m Founder of [Go Academy](https://web.facebook.com/gotech.academy).
+- 🔭 I’m Founder of [Go Academy](https://go-academy.net).
 
 - 🌱 I’m currently learning **Programming, Entrepreneurship, Business Administration**
 
