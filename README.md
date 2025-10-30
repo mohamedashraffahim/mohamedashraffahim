@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Django & Python Engineer | AI & Automation Enthusiast</h3>
 
 🎓 **Computer Science Graduate** from Cairo University (Faculty of Computers and Artificial Intelligence)  
-💻 **Backend Django Developer** with nearly **2 years of professional experience** building scalable, secure, and well-structured web applications.  
+💻 **Backend Django Developer** with nearly **3 years of professional experience** building scalable, secure, and well-structured web applications.  
 🚀 Passionate about **clean architecture, automation, and system design** — currently growing into a **Mid-Level Backend Engineer**.
 
 ---
